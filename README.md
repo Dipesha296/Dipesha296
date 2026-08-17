@@ -22,4 +22,4 @@ I am a Computer Science postgraduate focused on building strong foundations in D
 
 ### Connect With Me
 
-- LinkedIn: [Dipesha Malani]https://www.linkedin.com/in/dipesha-malani/
+- LinkedIn: [Dipesha Malani](https://www.linkedin.com/in/dipesha-malani/)
