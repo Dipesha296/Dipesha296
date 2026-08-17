@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Dipesha Malani
 
-<!--
-**Dipesha296/Dipesha296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### M.Tech Computer Science & Information Security @ NITK Surathkal
 
-Here are some ideas to get you started:
+I am a Computer Science postgraduate focused on building strong foundations in Data Structures & Algorithms, Core Computer Science, Software Development, and Cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+
+- Data Structures & Algorithms
+- Operating Systems
+- Computer Networks
+- DBMS
+- Backend Development
+- Cybersecurity
+
+### Tech Stack
+
+**Languages:** C++, Python, JavaScript  
+**Development:** HTML, CSS, React, Node.js  
+**Database:** MongoDB, SQL  
+**Tools:** Git, GitHub, Linux
+
+### Connect With Me
+
+- LinkedIn: [Dipesha Malani]https://www.linkedin.com/in/dipesha-malani/
